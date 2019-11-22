@@ -1,2 +1,3 @@
 # First_RT
-My first ray tracer.
+My firs attempt to write own raytracer. Only spheres, no textures, all hardcode.
+But it still work.
